@@ -1,0 +1,16 @@
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\bin\Debug\net5.0\HelloWorld123.exe
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\bin\Debug\net5.0\HelloWorld123.deps.json
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\bin\Debug\net5.0\HelloWorld123.runtimeconfig.json
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\bin\Debug\net5.0\HelloWorld123.runtimeconfig.dev.json
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\bin\Debug\net5.0\HelloWorld123.dll
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\bin\Debug\net5.0\ref\HelloWorld123.dll
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\bin\Debug\net5.0\HelloWorld123.pdb
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\obj\Debug\net5.0\HelloWorld123.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\obj\Debug\net5.0\HelloWorld123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\obj\Debug\net5.0\HelloWorld123.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\obj\Debug\net5.0\HelloWorld123.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\obj\Debug\net5.0\HelloWorld123.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\obj\Debug\net5.0\HelloWorld123.dll
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\obj\Debug\net5.0\ref\HelloWorld123.dll
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\obj\Debug\net5.0\HelloWorld123.pdb
+C:\Users\ELCOT\source\repos\HelloWorld123\HelloWorld123\obj\Debug\net5.0\HelloWorld123.genruntimeconfig.cache
